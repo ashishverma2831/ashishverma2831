@@ -5,14 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishverma2831&label=Profile%20views&color=0e75b6&style=flat" alt="ashishverma2831" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [willCreatePortfolioLater](willCreatePortfolioLater)
-
+  
+- 🙈 on devOps, CI/CD Projects 
+  
 - 💬 Ask me about **Web development, Java, Maths and Problem Solving**
 
-- 📫 How to reach me **ashishverma510207@gmail.com**
-
-- 📄 Know about my experiences [willCreateNewAndUpdatedResume](willCreateNewAndUpdatedResume)
+- 📫 How to reach me **ashishverma1428@gmail.com**
 
 - ⚡ Fun fact **I am Hungry...**
 
