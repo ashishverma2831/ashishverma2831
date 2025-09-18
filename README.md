@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Verma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<p>Highly motivated and skilled Mern Stack Developer with a Bachelor's degree in Btech from Goel Institute of Technology and Management. Adept at designing and implementing web applications with expertise in frontend and backend technologies. Seeking a challenging role to utilize and enhance my skills in a dynamic and innovative environment. </p>
+<p>Highly motivated and skilled MERN/MEAN Stack Developer with a Bachelor's degree in Btech from Goel Institute of Technology and Management. Adept at designing and implementing web applications with expertise in frontend and backend technologies. Seeking a challenging role to utilize and enhance my skills in a dynamic and innovative environment. </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishverma2831&label=Profile%20views&color=0e75b6&style=flat" alt="ashishverma2831" /> </p>
 
