@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishverma2831&label=Profile%20views&color=0e75b6&style=flat" alt="ashishverma2831" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Presently at **Accenture**
   
 - 🙈 on devOps, CI/CD Projects 
   
